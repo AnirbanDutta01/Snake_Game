@@ -1,0 +1,40 @@
+#gameContainer{
+    text-align: center;
+    /*border: 2px solid;*/
+}
+#gameBoard{
+    border:2px solid;
+}
+#scoreText{
+    font-size: 25px;
+}
+#boardBackground{
+    background-color: #51e2f5;
+}
+#startBtn{
+    background-color:#3CB371;
+    color: white;
+    border-radius: 12px;
+    cursor: pointer;
+    border: 1px solid;
+    border-color: black;
+}
+#pauseBtn{
+    background-color:#DC143C;
+    border-radius: 12px;
+    border: 1px solid;
+    cursor: pointer;
+}
+#continueBtn{
+    background-color: #DE8887;
+    /*display: none;*/
+    border-radius: 12px;
+    border: 1px solid;
+    cursor: pointer;
+}
+#resetBtn{
+    background-color: #FFDEAD;
+    border-radius: 12px;
+    cursor: pointer;
+    border: 1px solid;
+}
